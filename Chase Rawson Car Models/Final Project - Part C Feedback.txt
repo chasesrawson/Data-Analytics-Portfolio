@@ -1,0 +1,1 @@
+Good work here, I would like to see that the dashboard was on one page, shrink some of the graphs. For the dates, you could use a range to help you.
