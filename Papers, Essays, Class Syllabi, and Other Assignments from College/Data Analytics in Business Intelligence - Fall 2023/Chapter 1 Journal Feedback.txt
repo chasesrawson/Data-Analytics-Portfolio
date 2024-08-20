@@ -1,0 +1,17 @@
+Chase this was well written. A couple corrections. The heading you used “Citations” should be “References". Need to have running head and page numbers. This was very well written and I appreciate the work that you put into it. I hope that you learned a lot and will help formulate the thoughts as you continue the data analytics industry. I would like challenge you on data-driven verses data-centric. Is there a difference? If so, which would be better?
+
+PERSONAL NOTE, DID NOT RESPOND TO HIS FEEDBACK COMMENT BUT I ANSWERED THE QUESTION MYSELF:
+
+Data-driven and data-centric are two terms that are often used interchangeably, but they have different meanings and implications. Let me explain.
+
+Data-driven means making strategic decisions based on data analysis and interpretation. Data-driven organizations use data to guide their actions and optimize their outcomes. Data-driven companies are using algorithms in decision making. For example, a data-driven company might use customer feedback data to improve their products or services, or use sales data to identify new market opportunities.
+
+Data-centric means positioning data as a core, fixed asset that does not change regardless of the technology that uses it. Data-centric organizations see data as a valuable and independent resource that can be shared and reused across different platforms and systems. Data-centric companies place data science at the core1. For example, a data-centric company might use a common data model to ensure consistency and interoperability among different applications, or use a data governance framework to ensure data quality and security.
+
+Both data-driven and data-centric approaches have their benefits and challenges. Data-driven organizations can leverage data to gain insights and make better decisions, but they also need to ensure that they have the right data, tools, and skills to analyze and interpret the data correctly. Data-centric organizations can ensure that their data is reliable, accessible, and reusable, but they also need to invest in the infrastructure and architecture to support their data strategy.
+
+There is no definitive answer to which approach is better, as it depends on the goals, needs, and context of each organization. However, some experts suggest that being data-driven is not enough, and that organizations should aim to become data-centric as well. By doing so, they can create a data culture that values data as an asset, and use it to drive innovation and growth.
+
+https://thedatascientist.com/data-driven-data-informed-data-centric/ 
+https://www.nerdery.com/news/data-driven-vs-data-centricity/
+https://ebs-integrator.com/blog/basics-data-centric-vs-data-driven-the-whys-and-whats/
